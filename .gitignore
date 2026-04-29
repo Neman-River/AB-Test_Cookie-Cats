@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environment
+.venv
+
+# uv
+uv.lock
+
+# Jupyter
+.ipynb_checkpoints/
+data_analysis_local.ipynb
+
+# Project-specific
+CLAUDE.md
+.claude/
