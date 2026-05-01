@@ -16,6 +16,4 @@ uv.lock
 .ipynb_checkpoints/
 data_analysis_local.ipynb
 
-# Project-specific
-CLAUDE.md
-.claude/
+test_notebook.ipynb
